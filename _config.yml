@@ -17,8 +17,11 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md"}
   - {file: "agenda.md"}
+  - {file: "speakers.md"}
+  - {file: "watch.md"}
+  - {file: "campaign_events.md"}
+  - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:bharatr@vt.edu"}
