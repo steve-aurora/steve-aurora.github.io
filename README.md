@@ -1,11 +1,8 @@
 ---
-title: "About"
+title: "Organizers"
 permalink: "/about/"
 layout: page
 ---
-
-
-## Organizers
 
  - [Phil Erickson](mailto:pje@mit.edu)
  - [Bea Gallardo-Lacourt](mailto:bea.gallardolacourt@nasa.gov)
