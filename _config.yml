@@ -6,8 +6,6 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
@@ -25,11 +23,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "speakers.md"}
   - {file: "watch.md"}
   - {file: "README.md"}
-
-sidebar:
-  - text: |
-      Below is an image from Placeholder.com.
-      [![Test image from Placeholder](https://via.placeholder.com/100)](https://placeholder.com/)
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:bharatr@vt.edu"}

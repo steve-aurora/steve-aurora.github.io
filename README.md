@@ -12,3 +12,5 @@ layout: page
  
  
 The organizing committee is deeply grateful for US National Science Foundation funding that enables the STEVE workshop under grant AGS-2025481.
+
+![NSF](/assets/nsf_logo_small.png)

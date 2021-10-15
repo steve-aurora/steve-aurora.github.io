@@ -1,4 +1,15 @@
 <link rel="stylesheet" href="{{ "/assets/css/sidebar.css" | relative_url }}" media="screen and (min-width: 70em)">
+
+<div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <img src='{{"/assets/nsf_logo_small.jpg" | absolute_url}}'> <!-- **Tag Insertion, like this**-->
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
 <aside style="display: none">
   <nav>
   {%- for item in site.navigation -%}
