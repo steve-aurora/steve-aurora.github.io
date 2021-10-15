@@ -1,5 +1,9 @@
 <link rel="stylesheet" href="{{ "/assets/css/sidebar.css" | relative_url }}" media="screen and (min-width: 70em)">
 
+
+<aside style="display: none">
+  <nav>
+
 <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
@@ -10,8 +14,8 @@
       <p class="lead">{{ site.description }}</p>
     </div>
 
-<aside style="display: none">
-  <nav>
+
+
   {%- for item in site.navigation -%}
     {%- assign node = site.pages | where: "name", item.file | first -%}
     {%- assign url = item.url | default: node.url -%}
