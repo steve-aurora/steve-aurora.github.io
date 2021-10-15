@@ -16,6 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {icon: "/assets/nsf_logo.png"}
   - {file: "index.html"}
   - {file: "agenda.md"}
   - {file: "speakers.md"}
@@ -32,4 +33,4 @@ comments:
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
-#  - jekyll-feed
+ - jekyll-feed
