@@ -5,7 +5,8 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-# avatar: /assets/nsf_logo.png
+
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 # Layout
 
@@ -19,8 +20,6 @@ minimal: false             # use a dark header
 
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {sidebaricon: "nsf_logo.png"}
-  - {icon: "nsf_logo.png"}
   - {file: "index.html"}
   - {file: "agenda.md"}
   - {file: "speakers.md"}
@@ -37,6 +36,5 @@ comments:
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
- - jekyll-feed
  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
