@@ -5,7 +5,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-avatar: /assets/nsf_logo.png
+# avatar: /assets/nsf_logo.png
 
 # Layout
 
@@ -19,6 +19,8 @@ minimal: false             # use a dark header
 
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {sidebaricon: "nsf_logo.png"}
+  - {icon: "nsf_logo.png"}
   - {file: "index.html"}
   - {file: "agenda.md"}
   - {file: "speakers.md"}
