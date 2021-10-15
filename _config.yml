@@ -1,5 +1,4 @@
 title: "STEVE Workshop 2021"
-logo: "/assets/nsf_logo_small.png?raw=true" # your photo (or logo) here
 author: "Blog Author"
 # description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -26,6 +25,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "speakers.md"}
   - {file: "watch.md"}
   - {file: "README.md"}
+
+sidebar:
+  - text: |
+      Below is an image from Placeholder.com.
+      [![Test image from Placeholder](https://via.placeholder.com/100)](https://placeholder.com/)
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:bharatr@vt.edu"}
