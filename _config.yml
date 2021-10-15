@@ -15,8 +15,9 @@ minimal: false             # use a dark header
 
 # Menu
 
+avatar: "/assets/nsf_logo.png"
+
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {icon: "/assets/nsf_logo.png"}
   - {file: "index.html"}
   - {file: "agenda.md"}
   - {file: "speakers.md"}
