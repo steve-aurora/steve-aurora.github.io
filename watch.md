@@ -3,4 +3,4 @@ title:  "Watch"
 layout: page
 ---
 
-Link to the Youtube live stream and recorded talks.
+Link to the Youtube live stream.
