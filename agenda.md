@@ -9,9 +9,9 @@ The workshop is planned to take place over three days. It starts on Wednesday Oc
 
 | Time (EDT; -4 UTC) | Day-1 (Wed, Oct 20) | Day-2 (Thu, Oct 21) | Day-3 (Fri, Oct 22) |
 |--------------------|--------------------|--------------------|--------------------|
-| 2pm to 5pm         | Observational Capabilities   | Modeling Efforts |Summary & Future Direction  |
+| 2pm to 5pm         | Observational Capabilities -1 (Radars, Imagers, Satellites)   | Modeling Efforts |Summary & Future Direction  |
 | 5pm to 6pm         | Break                        | Break            |Break                       |
-| 6pm to 9pm         | Citizen science capabilities | Campaign Events  |Discovery Session & Closing |
+| 6pm to 9pm         | Observational Capabilities -2 (Citizen science) | Campaign Events  |Discovery Session & Closing |
 
 ## Hours by region
 
