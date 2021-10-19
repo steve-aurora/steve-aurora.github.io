@@ -3,7 +3,6 @@ title:  "Campaign Events"
 layout: page
 ---
 
-## Campaign Events
 
 | Date             | Reported Time |
 |------------------|---------------|
