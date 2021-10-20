@@ -3,7 +3,7 @@ title:  "Connect"
 layout: page
 ---
 
-Youtube live stream.
+Live stream.
 
 {% include embed.html url="https://youtu.be/sYin_vQenV4" %}
 
