@@ -5,6 +5,10 @@ layout: page
 
 Live stream.
 
+{% include embed.html url="https://www.youtube.com/embed/pgxrrPzufRw" %}
+
+STEVE workshop 2021 Day-1
+
 {% include embed.html url="https://www.youtube.com/embed/LWpt0PWB0YU" %}
 
 
