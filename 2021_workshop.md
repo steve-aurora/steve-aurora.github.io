@@ -1,5 +1,5 @@
 ---
-title:  "STEVE workshop 2021"
+title:  "2021 Workshop"
 mathjax: true
 layout: post
 categories: media
