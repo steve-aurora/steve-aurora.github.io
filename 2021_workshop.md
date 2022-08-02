@@ -14,7 +14,7 @@ The workshop successfully served as (1) a venue for developing observation strat
 
 The organizing committee is deeply grateful for US National Science Foundation funding that enables the STEVE workshop under grant AGS-2025481.
 
-## Agenda (2021 workshop)
+## Agenda
 
 The workshop took place over three days. It started on Wednesday October 20, 2021 and ended on Friday October 22, 2021.
 
