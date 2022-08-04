@@ -4,11 +4,11 @@ permalink: "/about/"
 layout: page
 ---
 
- - [Phil Erickson](mailto:pje@mit.edu)
- - [Bea Gallardo-Lacourt](mailto:bea.gallardolacourt@nasa.gov)
- - [Carlos Martinis](mailto:martinis@bu.edu)
- - [Gareth Perry](mailto:gperry@njit.edu)
- - [Bharat Kunduri](mailto:bharatr@vt.edu)
+ - [Phil Erickson](mailto:pje@mit.edu), MIT Haystack Observatory
+ - [Bea Gallardo-Lacourt](mailto:bea.gallardolacourt@nasa.gov), NASA GSFC
+ - [Carlos Martinis](mailto:martinis@bu.edu), Boston University
+ - [Gareth Perry](mailto:gperry@njit.edu), New Jersey Institute of Technology
+ - [Bharat Kunduri](mailto:bharatr@vt.edu), Virginia Tech
  
  
 The organizing committee is deeply grateful for US National Science Foundation funding that enables the STEVE workshop under grant AGS-2025481.
