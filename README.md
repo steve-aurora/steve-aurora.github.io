@@ -9,6 +9,8 @@ layout: page
  - [Carlos Martinis](mailto:martinis@bu.edu), Boston University
  - [Gareth Perry](mailto:gperry@njit.edu), New Jersey Institute of Technology
  - [Bharat Kunduri](mailto:bharatr@vt.edu), Virginia Tech
+ - [Valerie Svaldi](mailto:valerie.svaldi@gmail.com), UC Boulder
+ - [Binjie Liu](mailto:gperry@njit.edu), New Jersey Institute of Technology
  
  
 The organizing committee is deeply grateful for US National Science Foundation funding that enables the STEVE workshop under grant AGS-2025481.
