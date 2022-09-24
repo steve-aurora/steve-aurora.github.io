@@ -7,11 +7,15 @@ The workshop is planned to take place over three days. It starts on Thursday Oct
 
 ## Tentative Schedule
 
-| Day              | Time (EDT)                                                                                                                                                          | Session                                                                                                                                                                                                                   | Speakers                                                                                                                                                                                                         |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Thursday (Oct 6) | 9AM - 9:30AM<br><br><br>9:30AM - 12PM<br><br><br>12PM - 1PM<br><br><br>1PM - 3:30PM<br><br><br>3:30 PM - 3:45 PM<br><br><br>3:45 - 4:30 PM<br><br><br>4:30 PM - end | Welcome and Introduction<br><br><br>Subauroral/STEVE Observations<br><br><br>LUNCH<br><br><br>Subauroral Plasma Theory<br><br><br>Coffee break<br><br><br>Discussion and Summary<br><br><br>MIT Haystack Observatory Tour | Phil Erickson & Alan Liu<br><br><br>Toshi Nishimura, Carlos Martinis, Megan Gillies<br><br><br><br><br><br>Evgeny Mishin, Jean-Pierre St. Maurice, Jun Liang<br><br><br><br><br><br>TBD<br><br><br>Phil Erickson |
-| Friday (Oct 7)   | 9AM - 9:30AM<br><br><br>9:30AM - 12PM<br><br><br>12PM - 1PM<br><br><br>1PM - 3:30PM<br><br><br>3:30 PM - 3:45 PM<br><br><br>3:45 - 4:30 PM                          | Intro and Recap from previous day<br><br><br>Citizen Scientists' Observations<br><br><br>LUNCH<br><br><br>Subauroral Modeling<br><br><br>Coffee break<br><br><br>Discussion and Summary                                   | TBD<br><br><br>Emma Bruus, Alan Dyer, Michael Hunnekuhl, Vincent Ledvina<br><br><br><br><br><br>Matt Zettergren, Joaquin Diaz-Pena, Kristina Lynch, Valerie Svaldi, Ferradas<br><br><br><br><br><br>TBD          |
-| Saturday (Oct 8) | 9AM - 9:30AM<br><br><br>9:30AM - 12PM<br><br><br>12PM - 1PM<br><br><br>1PM - 3PM                                                                                    | Intro and Recap from previous day<br><br><br>Citizen Scientists' session: Show and tell!<br><br><br>LUNCH<br><br><br>Future plans and closing remarks                                                                     | TBD<br><br><br>Chris Ratzlaff, Neil Zeller, Emma Bruus, Alan Dyer<br><br><br><br><br><br>Phil Erickson, Bharat Kunduri, Carlos Martinis, Gareth Perry, Bea Gallardo-Lacourt                                      |
+| Time (EDT; -4 UTC) | Day-1 (Thu, Oct 6) | Day-2 (Fri, Oct 7) | Day-3 (Sat, Oct 8) |
+|--------------------|--------------------|--------------------|--------------------|
+| 9AM - 9:30AM         | Welcome and Introduction   | Intro and recap from previous day |Intro and recap from previous day  |
+| 9:30AM - 12PM         | Subauroral/STEVE Observations                        | Citizen Scientists' Observations            |Citizen Scientists' session: Show and tell!                       |
+| 12PM - 1PM        | Lunch | Lunch  | Lunch |
+| 1PM - 3:30PM        | Subauroral Plasma Theory | Subauroral Modeling  |Future plans and closing remarks |
+| 3:30PM - 3:45PM        | Coffee break | Coffee break  | |
+| 3:45PM - 4:30PM        | Discussion and Summary | Discussion and Summary  | |
+| 4:30 PM - end        | MIT Haystack Observatory Tour | Group Dinner  | |
 
 ## Hours by region
 
