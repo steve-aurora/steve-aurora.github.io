@@ -7,15 +7,13 @@ The workshop is planned to take place over three days. It starts on Thursday Oct
 
 ## Tentative Schedule
 
-| Time (EDT; -4 UTC) | Day-1 (Thu, Oct 6) | Day-2 (Fri, Oct 7) | Day-3 (Sat, Oct 8) |
-|--------------------|--------------------|--------------------|--------------------|
-| 9AM - 9:30AM         | Welcome and Introduction   | Intro and recap from previous day |Intro and recap from previous day  |
-| 9:30AM - 12PM         | Subauroral/STEVE Observations                        | Citizen Scientists' Observations            |Citizen Scientists' session: Show and tell!                       |
-| 12PM - 1PM        | Lunch | Lunch  | Lunch |
-| 1PM - 3:30PM        | Subauroral Plasma Theory | Subauroral Modeling  |Future plans and closing remarks |
-| 3:30PM - 3:45PM        | Coffee break | Coffee break  | |
-| 3:45PM - 4:30PM        | Discussion and Summary | Discussion and Summary  | |
-| 4:30 PM - end        | MIT Haystack Observatory Tour | Group Dinner  | |
+All times are EDT.
+
+| DAY      |SCHEDULE   |
+|----------------|-------------------------------|
+|Thursday (Oct 6)|{::nomarkdown}<table>  <thead>  <tr>  <th>TIME</th>  <th>SESSION</th>  <th>SPEAKERS</th>  </tr>  </thead>  <tbody>  <tr>  <td>9 AM - 9:30 AM</td>  <td>Welcome and Introduction</td>  <td>Phil Erickson and Alan Liu</td>  </tr>  <tr>  <td>9:30 AM - 12 PM</td>  <td>Subauroral/STEVE Observations</td>  <td>Toshi Nishimura, Carlos Martinis, Megan Gillies</td>  </tr>  <tr>  <td>12 PM - 1 PM</td>  <td>Lunch</td>  <td></td> </tr> <tr>  <td>1 PM - 3:30 PM</td>  <td>Subauroral Plasma Theory</td>  <td>Evgeny Mishin, Jean-Pierre St. Maurice, Jun Liang</td> </tr> <tr>  <td>3:30 PM - 3:45 PM</td>  <td>Coffee Break</td>  <td></td> </tr> <tr>  <td>3:45 - 4:30 PM</td>  <td>Discussion and Summary</td>  <td>Open to all</td> </tr> <tr>  <td>4:30 PM - end</td>  <td>MIT Haystack Observatory Tour</td>  <td>Phil Erickson</td> </tr> </tbody>  </table> |
+|Friday (Oct 7)|{::nomarkdown}<table>  <thead>  <tr>  <th>TIME</th>  <th>SESSION</th>  <th>SPEAKERS</th>  </tr>  </thead>  <tbody>  <tr>  <td>9 AM - 9:30 AM</td>  <td>Intro and Recap from previous day</td>  <td>TBD</td>  </tr>  <tr>  <td>9:30 AM - 12 PM</td>  <td>Citizen Scientists' Observations</td>  <td>Emma Bruus, Alan Dyer, Michael Hunnekuhl, Vincent Ledvina</td>  </tr>  <tr>  <td>12 PM - 1 PM</td>  <td>Lunch</td>  <td></td> </tr> <tr>  <td>1 PM - 3:30 PM</td>  <td>Subauroral Modeling</td>  <td>Matt Zettergren, Joaquin Diaz-Pena, Kristina Lynch, Valerie Svaldi, Fok/Ferradas</td> </tr> <tr>  <td>3:30 PM - 3:45 PM</td>  <td>Coffee Break</td>  <td></td> </tr> <tr>  <td>3:45 - 4:30 PM</td>  <td>Discussion and Summary</td>  <td>Open to all</td> </tr> <tr>  <td>5:30 PM </td>  <td>Group Dinner</td>  <td></td> </tr> </tbody>  </table>| 
+|Saturday (Oct 8)|{::nomarkdown}<table>  <thead>  <tr>  <th>TIME</th>  <th>SESSION</th>  <th>SPEAKERS</th>  </tr>  </thead>  <tbody>  <tr>  <td>9 AM - 9:30 AM</td>  <td>Intro and Recap from previous day</td>  <td>TBD</td>  </tr>  <tr>  <td>9:30 AM - 12 PM</td>  <td>Citizen Scientists' session: Show and tell!</td>  <td>Chris Ratzlaff, Neil Zeller, Emma Bruus, Alan Dyer</td>  </tr>  <tr>  <td>12 PM - 1 PM</td>  <td>Lunch</td>  <td></td> </tr> <tr>  <td>1 PM - 3 PM</td>  <td>Future plans and closing remarks</td>  <td>Phil Erickson, Bea Gallardo- Lacourt, Carlos Martinis, Gareth Perry, Bharat Kunduri</td> </tr>  </tbody>  </table>|
 
 ## Hours by region
 
