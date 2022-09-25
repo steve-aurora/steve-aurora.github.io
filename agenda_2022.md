@@ -17,7 +17,7 @@ All times are EDT.
 
 ## Hours by region
 
-| Hours                 | Region         |
+| Region                | Hours          |
 |-----------------------|----------------|
 | US East Coast Time    | 9am to 4:30pm  |
 | US Mountain Time      | 7am to 2:30pm  |
