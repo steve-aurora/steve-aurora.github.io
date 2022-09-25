@@ -3,7 +3,7 @@
   <article>
     {% include meta.html post=post preview=true %}
     {{ post.excerpt }}
-    {{ post }}
+    {{ page.url | relative_url }}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div> 
   </article>
 {% endfor %}
