@@ -18,9 +18,8 @@ The organizing committee is deeply grateful for US National Science Foundation f
 
 ## Agenda
 
-The workshop took place over three days. It started on Wednesday October 6<sup>th</sup>, 2022 and ended on Friday October 8<sup>th</sup>, 2022.
+The workshop took place over three days. It started on Wednesday October 6<sup>th</sup>, 2022 and ended on Friday October 8<sup>th</sup>, 2022. Detailed schedule is posted below.
 
-## Schedule
 
 | DAY      |SCHEDULE   |
 |----------------|-------------------------------|
