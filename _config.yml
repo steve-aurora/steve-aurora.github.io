@@ -20,6 +20,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "virtual_attendance.md"}
+  - {file: "2022_workshop.md"}
   - {file: "2021_workshop.md"}
   - {file: "README.md"}
   - {file: "glossary.md"}
