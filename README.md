@@ -8,9 +8,9 @@ layout: page
  - [Bea Gallardo-Lacourt](mailto:bea.gallardolacourt@nasa.gov), NASA GSFC
  - [Carlos Martinis](mailto:martinis@bu.edu), Boston University
  - [Gareth Perry](mailto:gperry@njit.edu), New Jersey Institute of Technology
- - [Don Hampton](mailto:dhampton@alaska.edu), University of Alaska, Fairbanks
- - [Mark Conde](mailto:mgconde@alaska.edu), University of Alaska, Fairbanks
- - [Vincent Ledvina](mailto:vledvina@alaska.edu), University of Alaska, Fairbanks
+ - [Don Hampton](mailto:dhampton@alaska.edu), University of Alaska Fairbanks
+ - [Mark Conde](mailto:mgconde@alaska.edu), University of Alaska Fairbanks
+ - [Vincent Ledvina](mailto:vledvina@alaska.edu), University of Alaska Fairbanks
  - [Bharat Kunduri](mailto:bharatr@vt.edu), Virginia Tech
  
  
