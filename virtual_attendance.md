@@ -7,5 +7,5 @@ The workshop is planned to take place over three days. It starts on Thursday Oct
 
 ## Virtual Attendance
 
-The virtual meeting links will be posted here soon. All virtual attendees need a password to join. 
+Please use this [Zoom registration link](https://alaska.zoom.us/meeting/register/fc_cp3ZxRUO7bqF5b--Izw#/registration) to participate virtually.
 <!-- Please [send an email to steve.phenomena@gmail.com](mailto:steve.phenomena@gmail.com) for details. -->
